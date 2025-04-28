@@ -1,4 +1,7 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+# Name: Magesh V
+# Reg no: 212222040092
+# Date : 28-04-2025
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -92,6 +95,15 @@ Introduces risk management: overcollateralization and liquidation.
 
 
 Directly related to DeFi protocols like Aave and Compound.
+# output:
+# Deposit:
+![Screenshot 2025-04-28 114008](https://github.com/user-attachments/assets/d598d6a8-5bae-431d-80a4-5f6e50bd4a5c)
+# collateral:
+![Screenshot 2025-04-28 114028](https://github.com/user-attachments/assets/31838f69-6bb2-44fe-be68-e924659277cc)
+# Borrow:
+![Screenshot 2025-04-28 114043](https://github.com/user-attachments/assets/ff0a53da-7c20-490c-adb9-333572046d44)
 
 # RESULT : 
+The decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed succesfully.
+
 
